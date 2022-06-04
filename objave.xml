@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objave>
+	<objava>
+		<ime>Ivan</ime>
+		<prezime>Ivić</prezime>
+        <datum>24.4.2022.</datum>
+        <naslov>Nova verzija aplikacije je live</naslov>
+        <sadrzaj>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris imperdiet eros viverra erat hendrerit accumsan. Vivamus eget metus in dolor hendrerit fringilla non nec libero. Etiam nec lacinia dui. Sed at orci eu libero accumsan rhoncus in nec purus. Curabitur ut enim ac nulla convallis hendrerit. Ut porta in mi id luctus. Nullam magna nisl, sodales eu lobortis nec, sollicitudin nec eros. Donec bibendum est sed elit mattis, at lacinia erat commodo. In at ligula eu augue sagittis accumsan. Nam eu erat nec risus congue condimentum. Fusce id ornare ipsum. Maecenas eget tincidunt nisl, sed hendrerit mi. Vivamus sem risus, suscipit quis ante molestie, mattis elementum justo. Proin ut augue.
+        </sadrzaj>
+		
+    </objava>
+	<objava>
+		<ime>Jana</ime>
+		<prezime>Janić</prezime>
+        <datum>18.4.2022.</datum>
+        <naslov>"Final touches" na aplikaciji</naslov>
+        <sadrzaj>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sed tincidunt quam, euismod euismod nunc. Aliquam ut sem eget nulla sagittis pharetra in eget neque. Nullam vestibulum arcu at metus lacinia scelerisque. Vivamus dignissim, erat id auctor porttitor, arcu diam bibendum quam, posuere interdum metus purus at erat. Nulla pretium, magna non convallis ultrices, metus velit cursus elit, elementum pellentesque nisl eros at ligula. Mauris rhoncus molestie libero. In hac habitasse platea dictumst. Suspendisse pulvinar tempor arcu.
+        </sadrzaj>
+    </objava>
+    <objava>
+		<ime>Pero</ime>
+		<prezime>Perić</prezime>
+        <datum>7.4.2022.</datum>
+        <naslov>Sređene greške u kodu</naslov>
+        <sadrzaj>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris imperdiet eros viverra erat hendrerit accumsan. Vivamus eget metus in dolor hendrerit fringilla non nec libero. Etiam nec lacinia dui. Sed at orci eu libero accumsan rhoncus in nec purus. Curabitur ut enim ac nulla convallis hendrerit. Ut porta in mi id luctus. Nullam magna nisl, sodales eu lobortis nec, sollicitudin nec eros. Donec bibendum est sed elit mattis, at lacinia erat commodo. In at ligula eu augue sagittis accumsan. Nam eu erat nec risus congue condimentum. Fusce id ornare ipsum. Maecenas eget tincidunt nisl, sed hendrerit mi. Vivamus sem risus, suscipit quis ante molestie, mattis elementum justo. Proin ut augue. Curabitur sed tincidunt quam, euismod euismod nunc. Aliquam ut sem eget nulla sagittis pharetra in eget neque. Nullam vestibulum arcu at metus lacinia scelerisque. Vivamus dignissim, erat id auctor porttitor, arcu diam bibendum quam, posuere interdum metus purus at erat. Nulla pretium, magna non convallis ultrices, metus velit cursus elit, elementum pellentesque nisl eros at ligula. Mauris rhoncus molestie libero. In hac habitasse platea dictumst.
+        </sadrzaj>
+    </objava>
+    <objava>
+		<ime>Luka</ime>
+		<prezime>Lukić</prezime>
+        <datum>25.3.2022.</datum>
+        <naslov>Finaliziranje koda</naslov>
+        <sadrzaj>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sed tincidunt quam, euismod euismod nunc. Aliquam ut sem eget nulla sagittis pharetra in eget neque. Nullam vestibulum arcu at metus lacinia scelerisque. Vivamus dignissim, erat id auctor porttitor, arcu diam bibendum quam, posuere interdum metus purus at erat. Nulla pretium, magna non convallis ultrices, metus velit cursus elit, elementum pellentesque nisl eros at ligula. Mauris rhoncus molestie libero. In hac habitasse platea dictumst. Suspendisse pulvinar tempor arcu.
+        </sadrzaj>
+    </objava>
+    <objava>
+		<ime>Ana</ime>
+		<prezime>Anić</prezime>
+        <datum>16.3.2022.</datum>
+        <naslov>Dodan homepage</naslov>
+        <sadrzaj>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris imperdiet eros viverra erat hendrerit accumsan. Vivamus eget metus in dolor hendrerit fringilla non nec libero. Etiam nec lacinia dui. Sed at orci eu libero accumsan rhoncus in nec purus. Curabitur ut enim ac nulla convallis hendrerit. Ut porta in mi id luctus. Nullam magna nisl, sodales eu lobortis nec, sollicitudin nec eros. Donec bibendum est sed elit mattis, at lacinia erat commodo. In at ligula eu augue sagittis accumsan. Nam eu erat nec risus congue condimentum. Fusce id ornare ipsum. Maecenas eget tincidunt nisl, sed hendrerit mi. Vivamus sem risus, suscipit quis ante molestie, mattis elementum justo. Proin ut augue.
+        </sadrzaj>
+    </objava>
+    <objava>
+		<ime>Franjo</ime>
+		<prezime>Franjić</prezime>
+        <datum>17.2.2022.</datum>
+        <naslov>Dodana Login forma</naslov>
+        <sadrzaj>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris imperdiet eros viverra erat hendrerit accumsan. Vivamus eget metus in dolor hendrerit fringilla non nec libero. Etiam nec lacinia dui. Sed at orci eu libero accumsan rhoncus in nec purus. Curabitur ut enim ac nulla convallis hendrerit. Ut porta in mi id luctus. Nullam magna nisl, sodales eu lobortis nec, sollicitudin nec eros. Donec bibendum est sed elit mattis, at lacinia erat commodo. In at ligula eu augue sagittis accumsan. Nam eu erat nec risus congue condimentum. Fusce id ornare ipsum. Maecenas eget tincidunt nisl, sed hendrerit mi. Vivamus sem risus, suscipit quis ante molestie, mattis elementum justo. Proin ut augue.
+        </sadrzaj>
+    </objava>
+
+</objave>
